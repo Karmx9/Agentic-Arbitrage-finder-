@@ -1,0 +1,8 @@
+{
+  "name": "Agentic Arbitrage & Risk Management Terminal",
+  "description": "A production-grade, AI-powered investment analysis terminal. Simulates hedge-fund level workflows for identifying statistical arbitrage opportunities in biotechnology options, featuring advanced charting, real-time data simulation, and a persistent strategy vault.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
